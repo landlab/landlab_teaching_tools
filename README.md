@@ -4,4 +4,4 @@ This repository will include Jupyter Notebooks that implement Landlab for use in
 
 The notebooks illustrate examples of physical processes implemented numerically.
 
-The notebooks are primarily designed for use as homework assignments or labratory assignments.
+The notebooks are primarily designed for use as homework assignments or laboratory assignments.
