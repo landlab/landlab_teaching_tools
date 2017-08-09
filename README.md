@@ -10,4 +10,4 @@ The notebooks can be run locally by installing Landlab on your computer and down
 
 Alternatively, the notebooks can be run remotely on Hydroshare. More information on this later.
 
-Please contact Nicole Gasparini [ngaspari@tulane(dot)edu] for help with using these or developing new ones. These notebooks can be improved through your feedback.
+Please contact Nicole Gasparini [ngaspari@tulane(dot)edu] for help with using these notebooks or developing new ones. These notebooks will be improved based on your feedback.
