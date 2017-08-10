@@ -1,4 +1,4 @@
-# landlab_teaching_tools
+# landlab_teaching_tools :raising_hand:
 
 This repository includes Jupyter Notebooks that implement Landlab for use in teaching undergraduate and graduate courses.
 
@@ -8,10 +8,26 @@ The notebooks are primarily designed for use as homework assignments or laborato
 
 The notebooks can be run locally by installing Landlab on your computer and downloading this repository onto your computer.
 
-** To install Landlab and run locally: **
+# To install Landlab and run locally: 
 
-This [link | https://landlab.github.io/#/#install] will take you to directions on how to install Landlab and information on preferred Python distributions.
+If following this method, every student will need to install Landlab on their personal computer, or it will need to be installed on classroom computers. All software needed to run Landlab locally is opensource (so free!). This [link](https://landlab.github.io/#/#install) will take you to directions on how to install Landlab and information on preferred Python distributions. 
 
-Alternatively, the notebooks can be run remotely on Hydroshare. More information on this later.
+The next step would be for the class instructor to hit the _Clone or download_ button (above, green) and download this repository locally. Choose which Jupyter Notebooks you would like the students to run, and then distribute the notebook to the students. You can edit them to your class needs if you use this method. Note that some notebooks require supporting files to run, so make sure those are copied to the students.
 
-Please contact Nicole Gasparini [ngaspari@tulane(dot)edu] for help with using these notebooks or developing new ones. These notebooks will be improved based on your feedback.
+For an introduction to using Jupyter Notebooks, check out this site that has a tutorial using statistics, but a notebook is a notebook! (http://www.randalolson.com/2012/05/12/a-short-demo-on-how-to-use-ipython-notebook-as-a-research-notebook/)
+
+# To use the notebooks on Hydroshare:
+
+These notebooks can all be run remotely using HydroShare, an online collaboration environment for sharing data, models, and code (there are no costs, fees or subscriptions). Using this route, all of your students will need to join HydroShare, and then the notebooks can be run on a super computer elsewhere.
+
+1. Go to https://www.hydroshare.org/
+2. Hit blue button _Sign up now_ and follow steps. (remember your user name and password!)
+3. Once signed up, on the top bar hit _Collaborate_.
+4. Search for the Landlab Group and _Ask to join_
+5. Once you have permission, enter the Landlab Group page.
+6. Hit the _Resources_ tab.
+7. Enter the collection _Landlab\_classroom\_notebooks_
+
+# More information:
+
+Please contact Nicole Gasparini [ngaspari@tulane(dot)edu] for help with using and improving these notebooks, developing new ones, and solutions to the current notebooks. These notebooks will be improved based on your feedback.
