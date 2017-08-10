@@ -15,7 +15,7 @@ The notebooks can be run locally by installing Landlab on your computer or they 
 
 If following this method, every student will need to install Landlab on their personal computer, or it will need to be installed on classroom computers. All software needed to run Landlab locally is opensource (so free!). This link (https://landlab.github.io/#/) will take you to directions on how to install Landlab and information on preferred Python distributions. 
 
-The next step would be for the class instructor to hit the _Clone or download_ button (above, green) and download this repository locally. Choose which Jupyter Notebooks you would like the students to run, and then distribute the notebook to the students. You can edit them to your class needs if you use this method. Note that some notebooks require supporting files to run, so make sure those are copied to the students.
+The next step would be for the class instructor to hit the _Clone or download_ button (on this webpage (https://github.com/landlab/landlab_teaching_tools), green, upper right) and download this repository locally. Choose which Jupyter Notebooks you would like the students to run, and then distribute the notebook to the students. You can edit them to your class needs if you use this method. Note that some notebooks require supporting files to run, so make sure those are copied to the students.
 
 For an introduction to using Jupyter Notebooks, check out this site that has a tutorial using statistics, but a notebook is a notebook! (http://www.randalolson.com/2012/05/12/a-short-demo-on-how-to-use-ipython-notebook-as-a-research-notebook/)
 
