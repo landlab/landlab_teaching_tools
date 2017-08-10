@@ -33,8 +33,8 @@ These notebooks can all be run remotely using HydroShare, an online collaboratio
 8. Scroll down to _Collection Contents_ and hit on whatever notebook you want to run.
 9. Hit the blue _Open with..._ button on the top right, and choose JupyterHub NCSA
 10. Scroll down to the first code block, put your cursor in the code block, and hit _shift enter_. Provide your password.
-11. Run the next two code blocks. This will give you a link to the notebook. **Only run the first three code blocks of this notebook!**
-12. Hit the link to the notebook, and you will now be able to run the classroom notebook that you chose. (When this notebook opens, you will be asked to choose a kernal. Python 2 or 3 both work.)
+11. Run the next two code blocks. **In this first notebook, you only want to run the first three code blocks!**
+12. After the third code block is run, you will get a link to classroom notebook. Hit the link to the classroom notebook. (When this notebook opens, you will be asked to choose a kernal. Python 2 or 3 both work.)
 13. Now you are running the notebook remotely!
 
 # More information: :question::open_mouth:
