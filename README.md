@@ -1,4 +1,7 @@
-# landlab_teaching_tools :raising_hand:
+
+[![Landlab header](./landlab_header.png)](http://landlab.github.io)
+
+# Landlab teaching tools :raising_hand:
 
 This repository includes Jupyter Notebooks that implement Landlab for use in teaching undergraduate and graduate courses.
 
@@ -6,7 +9,7 @@ The notebooks illustrate examples of physical processes implemented numerically.
 
 The notebooks are primarily designed for use as homework assignments or laboratory assignments. However, they can be used to illustrate concepts on-the-fly in the classroom.
 
-The notebooks can be run locally by installing Landlab on your computer and downloading this repository onto your computer.
+The notebooks can be run locally by installing Landlab on your computer or they can be run remotely using Hydroshare.
 
 # To install Landlab and run locally: :octocat::computer:
 
