@@ -3,11 +3,15 @@
 
 # Landlab teaching tools :raising_hand:
 
-This repository includes Jupyter Notebooks that implement Landlab for use in teaching undergraduate and graduate courses.
+This repository includes Jupyter Notebooks that implement Landlab for use in teaching undergraduate and graduate courses. Jupyter Notebooks combine formatted text with code that can be run. Students can run small parts of code bit by bit as they follow along with the text.
 
-The notebooks illustrate examples of physical processes implemented numerically.
+The notebooks illustrate examples of physical processes implemented numerically. These notebooks are designed to teach about processes. The notebooks are not designed to teach students to code, or to teach students to use Landlab. No coding experience is needed to successfully carry out these activities - just the ability to read and a classroom introduction of the specific processes being discussed.
 
 The notebooks are primarily designed for use as homework assignments or laboratory assignments. However, they can be used to illustrate concepts on-the-fly in the classroom.
+
+The easiest way to see what is in the notebooks is through this website: https://nbviewer.jupyter.org/github/landlab/landlab_teaching_tools/tree/master/ - where they render properly.
+
+For an introduction to using Jupyter Notebooks, check out this site that has a tutorial using statistics, but a notebook is a notebook! (http://www.randalolson.com/2012/05/12/a-short-demo-on-how-to-use-ipython-notebook-as-a-research-notebook/)
 
 The notebooks can be run locally by installing Landlab on your computer or they can be run remotely using Hydroshare.
 
@@ -16,8 +20,6 @@ The notebooks can be run locally by installing Landlab on your computer or they 
 If following this method, every student will need to install Landlab on their personal computer, or it will need to be installed on classroom computers. All software needed to run Landlab locally is opensource (so free!). This link (https://landlab.github.io/#/) will take you to directions on how to install Landlab and information on preferred Python distributions. 
 
 The next step would be for the class instructor to hit the _Clone or download_ button (on this webpage (https://github.com/landlab/landlab_teaching_tools), green, upper right) and download this repository locally. Choose which Jupyter Notebooks you would like the students to run, and then distribute the notebook to the students. You can edit them to your class' needs if you use this method. Note that some notebooks require supporting files to run, so make sure those are copied to the students.
-
-For an introduction to using Jupyter Notebooks, check out this site that has a tutorial using statistics, but a notebook is a notebook! (http://www.randalolson.com/2012/05/12/a-short-demo-on-how-to-use-ipython-notebook-as-a-research-notebook/)
 
 # To use the notebooks on Hydroshare: :umbrella::computer:
 
