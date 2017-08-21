@@ -11,7 +11,7 @@ The notebooks are primarily designed for use as homework assignments or laborato
 
 The easiest way to see what is in the notebooks is through this website: https://nbviewer.jupyter.org/github/landlab/landlab_teaching_tools/tree/master/.
 
-For an introduction to using Jupyter Notebooks, check out this site that has a tutorial using statistics, but a notebook is a notebook! (http://www.randalolson.com/2012/05/12/a-short-demo-on-how-to-use-ipython-notebook-as-a-research-notebook/)
+For an introduction to using Jupyter Notebooks, check out this site that has a tutorial using statistics, but a notebook is a notebook! (http://www.randalolson.com/2012/05/12/a-short-demo-on-how-to-use-ipython-notebook-as-a-research-notebook/) [NOTE: Parts of this website are a bit outdated. The way to launch a Jupyter notebook is to enter 'jupyter notebook' from a command line prompt. The webpage states to type 'ipython notebook'. Jupyter notebooks can also be launched from within Anaconda.]
 
 The notebooks can be run locally by installing Landlab on your computer or they can be run remotely using Hydroshare.
 
