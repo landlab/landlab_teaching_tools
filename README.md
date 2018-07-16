@@ -11,7 +11,7 @@ The notebooks are primarily designed for use as homework assignments or laborato
 
 The easiest way to see what is in the notebooks is through this website: https://nbviewer.jupyter.org/github/landlab/landlab_teaching_tools/tree/master/.
 
-For an introduction to using Jupyter Notebooks, check out this site that has a tutorial using statistics. (http://www.randalolson.com/2012/05/12/a-short-demo-on-how-to-use-ipython-notebook-as-a-research-notebook/) [NOTE: The way to launch a Jupyter notebook is to enter 'jupyter notebook' from a command line prompt. This demo webpage uses the outdated method of launching with 'ipython notebook'. Jupyter notebooks can also be launched from within Anaconda.]
+For an introduction to using Jupyter Notebooks, see this webpage - http://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/execute.html. [NOTE: The way to launch a Jupyter notebook is to enter 'jupyter notebook' from a command line prompt. Jupyter notebooks can also be launched from within Anaconda.]
 
 The notebooks can be run locally by installing Landlab on your computer or they can be run remotely using Hydroshare.
 
@@ -47,4 +47,4 @@ After you and your students have successfully run through the steps above, in th
 
 Please contact Nicole Gasparini [ngaspari@tulane(dot)edu] for help with using and improving these notebooks, developing new ones, and solutions to the current notebooks. These notebooks will be improved based on your feedback. I am happy to consult with you on learning the process of running a notebook. It's easy once you learn! 
 
-The development of these Notebooks has been made possible by the Landlab project funded by the National Science Foundation.  Launching these Notebooks from HydroShare is made possible by a collaboration between HydroShare researchers, the Consortium of Universities Allied for Hydrologic Science, Inc. (CUAHSI), and National SuperComputer A  (NCSA) and funding by the National Science Foundation.  For more details on the software architecuture behind how to run Jupyter Notebooks from HydroShare, please contact [support@hydroshare(dot)org]. 
+The development of these Notebooks has been made possible by the Landlab project funded by the National Science Foundation (OAC 1450338 to N. Gasparini, OAC 1450409 to G. Tucker, OAC 1450412 to E. Istanbulluoglu). Launching these Notebooks from HydroShare is made possible by a collaboration between HydroShare researchers, the Consortium of Universities Allied for Hydrologic Science, Inc. (CUAHSI), and National SuperComputer A (NCSA) and funding by the National Science Foundation. For more details on the software architecuture behind how to run Jupyter Notebooks from HydroShare, please contact [support@hydroshare(dot)org]. 
