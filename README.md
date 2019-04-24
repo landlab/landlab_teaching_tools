@@ -1,6 +1,9 @@
 
 [![Landlab header](./landlab_header.png)](http://landlab.github.io)
 
+[![Build Status](https://travis-ci.org/landlab/landlab_teaching_tools.svg?branch=master)](https://travis-ci.org/landlab/landlab_teaching_tools)
+
+
 # Landlab teaching tools :raising_hand:
 
 This repository includes Jupyter Notebooks that implement Landlab for use in teaching undergraduate and graduate courses. Jupyter Notebooks combine formatted text with code that can be run. Students can run small parts of code bit by bit as they follow along with the text.
