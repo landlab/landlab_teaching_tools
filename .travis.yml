@@ -11,5 +11,6 @@ before_install:
 install:
 - conda env create --file=environment.yml
 - source activate landlab_tutorials
+- conda info --all && conda list && conda list landlab
 script:
 - travis_wait 50 pytest -vvv
