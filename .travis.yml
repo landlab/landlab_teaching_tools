@@ -1,0 +1,16 @@
+language: generic
+os:
+- linux
+sudo: false
+before_install:
+- curl https://repo.continuum.io/miniconda/Miniconda3-latest-Linux-x86_64.sh > $HOME/miniconda.sh
+- bash $HOME/miniconda.sh -b -p $HOME/anaconda
+- export PATH="$HOME/anaconda/bin:$PATH"
+- hash -r
+- conda config --set always_yes yes --set changeps1 no
+install:
+- conda env create --file=environment.yml
+- source activate landlab_tutorials
+- conda info --all && conda list && conda list landlab
+script:
+- travis_wait 50 pytest -vvv
