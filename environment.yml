@@ -4,5 +4,5 @@ channels:
 dependencies:
 - python==3.7
 - jupyter
-- landlab
+- landlab==1.8.0
 - pytest
