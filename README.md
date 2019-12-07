@@ -31,23 +31,20 @@ These notebooks can all be run remotely using HydroShare, an online collaboratio
 Initiation steps:
 1. Go to https://www.hydroshare.org/
 2. Hit blue button _Sign up now_ and follow steps. (remember your user name and password!)
-3. Once signed up, on the top bar hit _Collaborate_.
+3. Once signed up, on the top bar hit _Collaborate_ and hite on the _Groups_ button.
 4. Search for the Landlab Group and _Ask to join_
 5. Once you have permission, enter the Landlab Group page.
-6. Hit the _Resources_ tab.
-7. Enter the collection _Landlab\_classroom\_notebooks_
+6. Search for _classroom\_notebooks_ in the search bar.
+7. Enter the collection _Landlab\_classroom\_notebooks_.
 8. Scroll down to _Collection Contents_ and hit on whatever notebook you want to run.
-9. Hit the blue _Open with..._ button on the top right, and choose JupyterHub NCSA
-10. Scroll down to the first code block, put your cursor in the code block, and hit _shift enter_. Provide your password.
-11. Run the next two code blocks. **In this first notebook, you only want to run the first three code blocks!**
-12. After the third code block is run, you will get a link to classroom notebook. Hit the link to the classroom notebook. (When this notebook opens, you will be asked to choose a kernal. Python 2 or 3 both work.)
-13. Now you are running the notebook remotely!
+9. Hit the blue _Open with..._ button on the top right, and choose CUAHSI JupyterHub.
+10. You will come to a screen with the notebook name (ending in .ipynb). Click that and you are now running the notebook remotely!
 
 Streamlined access:
 After you and your students have successfully run through the steps above, in the next work sessions you can also access your personal user space on the supercomputer that makes this magic happen, simply by typing in this URL into your browser: https://jupyter.cuahsi.org  You will be prompted for your HydroShare login, and you can navigate the folders to find the resources you have downloaded and created in previous work sessions.
 
 # More information: :question::open_mouth:
 
-Please contact Nicole Gasparini [ngaspari@tulane(dot)edu] for help with using and improving these notebooks, developing new ones, and solutions to the current notebooks. These notebooks will be improved based on your feedback. I am happy to consult with you on learning the process of running a notebook. It's easy once you learn! 
+If you have suggestions on improving these notebooks and developing new ones, or are having trouble running them, please leave us a question in our GitHub Issues page - https://github.com/landlab/landlab/issues. Please make sure you include that you are working with a Landlab Teaching Notebook and include the name of the notebook and as much information as possible. If you are getting an error, please taking a screenshot and upload it.
 
 The development of these Notebooks has been made possible by the Landlab project funded by the National Science Foundation (OAC 1450338 to N. Gasparini, OAC 1450409 to G. Tucker, OAC 1450412 to E. Istanbulluoglu). Launching these Notebooks from HydroShare is made possible by a collaboration between HydroShare researchers, the Consortium of Universities Allied for Hydrologic Science, Inc. (CUAHSI), and National SuperComputer A (NCSA) and funding by the National Science Foundation. For more details on the software architecuture behind how to run Jupyter Notebooks from HydroShare, please contact [support@hydroshare(dot)org]. 
