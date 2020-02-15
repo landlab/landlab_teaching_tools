@@ -1,4 +1,4 @@
-# As of mid December 2019 the Landlab teaching tutorials are no longer being maintained here. The content that is in this repository has been brought into the [main landlab repository](https://github.com/landlab/landlab) which allows the development team to better ensure that the tutorials will always run with Landlab. 
+# The release of Landlab 2.0 renders the teaching tutorials in this repository no longer functional. They are no longer being maintained here. The content in this repository has been updated and brought into the [main landlab repository](https://github.com/landlab/landlab) which allows the development team to better ensure that the tutorials will always run with Landlab. You are still able to clone this repository, but these tutorials will not function with Landlab 2.0. THIS REPOSITORY IS NOW ARCHIVED.
 
 
 [![Landlab header](./landlab_header.png)](http://landlab.github.io)
